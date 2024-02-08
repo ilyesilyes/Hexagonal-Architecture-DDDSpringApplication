@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: dev
+#  data:
+#    mongodb:
+#      database:
+
+server:
+  port: 8080

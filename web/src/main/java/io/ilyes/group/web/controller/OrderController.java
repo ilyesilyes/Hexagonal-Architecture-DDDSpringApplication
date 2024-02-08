@@ -1,4 +1,4 @@
-package io.ilyes.group.web;
+package io.ilyes.group.web.controller;
 
 import io.ilyes.group.model.service.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
